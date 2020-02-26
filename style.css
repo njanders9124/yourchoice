@@ -1,0 +1,21 @@
+.middle {
+    background: url("background.png") no-repeat center center fixed;
+    background-size: cover;
+    height: 1000px;
+    color: white;
+}
+
+.first.container {
+    box-shadow: none;
+    border: none;
+    padding-top: 1em;
+    background: transparent;
+    color: white;
+}
+
+.test {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    background-color: #004030;
+    color: white
+}
